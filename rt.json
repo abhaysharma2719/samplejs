@@ -1,0 +1,25 @@
+{
+  "data": {
+    "creative": {
+      "cta": "",
+      "type": "IMAGE",
+      "url": {
+        "name": "1.jpeg",
+        "id": "MC0Lrzj4",
+        "pathname": "/8a8080df898bd7c801898bf38bf70050/media/img/MC0Lrzj4/raw"
+      }
+    },
+    "properties": {
+      "pSize": {
+        "width": "20",
+        "type": "%",
+        "height": "20"
+      },
+      "pos": "lb"
+    }
+  },
+  "name": "L-Band (left, bottom)",
+  "startTime": 1,
+  "endTime": 5,
+  "type": "L_BAND"
+}
